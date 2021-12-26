@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Extrato CHT</string>
+    <string name="canac">Codigo ANAC</string>
+    <string name="cpf">CPF</string>
+    <string name="enviar_button">Enviar</string>
+    <string name="ingles">Extrato em inglês</string>
+    <!--<string name="clear">Limpar</string>-->
+    <string name="share">Compartilhar</string>
+    <string name="save">Salvar</string>
+    <string name="saved">Salvo</string>
+    <string name="close">Fechar</string>
+    <string name="conexao">Verifique conexão e tente novamente</string>
+    <string name="dados_incorretos">Dados incorretos</string>
+    <string name="carregando">Carregando…</string>
+    <string name="myMail">thomascouto@gmail.com</string>
+    <string name="barao_solutions">por Barão Solutions</string>
+    <string name="sugestoes">Envie sugestões: %1$s</string>
+    <string name="descricao">Consulta ao CHT (Certificado de Habilitação Técnica) no site da ANAC</string>
+    <string name="versao">Versão %1$s</string>
+    <string name="sobre">Sobre</string>
+    <string name="erro">Erro ao salvar imagem</string>
+    <string name="permission_denied">Sem permissão para salvar.</string>
+</resources>
